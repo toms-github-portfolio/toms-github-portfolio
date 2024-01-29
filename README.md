@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toms-github-portfolio
-- 👀 I’m interested in fitness and data analysis
-- 🌱 I’m currently learning as much as I can about big data analytics
+- 👀 I’m interested in fitness and Data Analysis
+- 🌱 I’m currently learning as much as I can about Big Data Analytics
 - ⚡ Fun fact: I speak English, Spanish & Portuguese
 
 <!---
