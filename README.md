@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toms-github-portfolio
 - 👀 I’m interested in Sports, Data Analysis & Marketing
-- 🌱 I’m currently learning as much as I can about Big Data Analytics
-- ⚡ Fun fact: I speak English, Spanish & Portuguese
+- 🌱 I’m currently finishing my Master of Science in Big Data Analytics
+- ⚡ Random Fact: I am from the UK and I speak Spanish & Portuguese
 
 <!---
 toms-github-portfolio/toms-github-portfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
