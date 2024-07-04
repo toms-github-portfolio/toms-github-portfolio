@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toms-github-portfolio
 - 👀 I’m interested in Sports, Data Analysis & Marketing
-- 🌱 I’m currently finishing my Master of Science in Big Data Analytics
+- 🌱 I’m currently finishing my Master of Science in Big Data Analytics and searching for employment opportunities for Jan 2025
 - ⚡ Random Fact: I am from the UK and I speak Spanish & Portuguese
 
 <!---
